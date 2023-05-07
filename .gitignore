@@ -1,0 +1,5 @@
+.DS_Store
+venv
+videos
+__pycache__/
+*.pyc
