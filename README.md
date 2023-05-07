@@ -1,6 +1,6 @@
 # FDA Solution Extractor
 
-The project to extract the solution pdfs from the video.
+The project to extract a pdf from the solution videos.
 
 ## Installation
 
