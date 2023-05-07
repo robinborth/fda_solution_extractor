@@ -1,5 +1,5 @@
 .DS_Store
 venv
-videos
+videos/*.mp4
 __pycache__/
 *.pyc
